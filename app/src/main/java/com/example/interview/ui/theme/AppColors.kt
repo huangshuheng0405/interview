@@ -2,7 +2,6 @@ package com.example.interview.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-
 object AppColors {
     val MainColor = Color(0xFFFA6D1D)       // 主题橙色
     val Green = Color(0xFF41B883)            // 绿色
